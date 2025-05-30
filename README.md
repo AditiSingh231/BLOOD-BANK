@@ -1,4 +1,5 @@
 Blood Bank App
+
 This project provides a comprehensive system for managing blood donations, inventory, and user interactions, facilitating efficient blood bank operations.
 
 Features
@@ -33,15 +34,23 @@ Displays inventory tables and allows interactions for various user actions.
 
 Technologies Used
 HTML
+
 CSS
+
 JavaScript
+
 React
+
 Node.js
+
 MongoDB
+
 
 Installation
 Clone the repository.
+
 Install dependencies by running npm install.
+
 Start the server by running npm start.
 
 Any Contributions are Welcome !
