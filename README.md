@@ -1,8 +1,9 @@
-Blood Bank App
+Blood Bank App:-
 
 This project provides a comprehensive system for managing blood donations, inventory, and user interactions, facilitating efficient blood bank operations.
 
-Features
+Features:-
+
 1)User Registration:
 Three types of users: Donor, Hospital, and Organization.
 Simple registration forms for each user type with necessary fields.
@@ -32,25 +33,20 @@ Backend APIs for handling user registration, inventory changes, and retrieving b
 A user-friendly interface that simplifies interaction with the system.
 Displays inventory tables and allows interactions for various user actions.
 
-Technologies Used
+Technologies Used:-
+
 HTML
-
 CSS
-
 JavaScript
-
 React
-
 Node.js
-
 MongoDB
 
 
-Installation
+Installation:-
+
 Clone the repository.
-
 Install dependencies by running npm install.
-
 Start the server by running npm start.
 
 Any Contributions are Welcome !
